@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : file24.c
+Author : Nabarun Mukherjee
+Description : Write a program to create a message queue and print the key and message queue id.
+Date: 13th Oct, 2023.
+============================================================================
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <sys/types.h>

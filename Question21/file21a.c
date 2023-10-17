@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : file21a.c
+Author : Nabarun Mukherjee
+Description : Write two programs so that both can communicate by FIFO -Use two way communications.
+Date: 12 Oct, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<fcntl.h>

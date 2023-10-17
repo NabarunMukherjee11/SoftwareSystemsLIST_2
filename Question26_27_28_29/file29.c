@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : file29.c
+Author : Nabarun Mukherjee
+Description : Write a program to remove the message queue.
+Date: 15th Oct, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>

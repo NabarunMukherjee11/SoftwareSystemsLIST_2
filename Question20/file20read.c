@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : file20read.c
+Author : Nabarun Mukherjee
+Description : Write two programs so that both can communicate by FIFO -Use one way communication 
+Date: 11 Oct, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<fcntl.h>

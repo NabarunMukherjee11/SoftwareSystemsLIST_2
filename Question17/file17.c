@@ -1,3 +1,16 @@
+/*
+============================================================================
+Name : file17.c
+Author : Nabarun Mukherjee
+Description : Write a program to execute ls -l | wc.
+ a. use dup
+ b. use dup2
+ c. use fcnt
+
+Date: 9 Oct, 2023.
+============================================================================
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <unistd.h>

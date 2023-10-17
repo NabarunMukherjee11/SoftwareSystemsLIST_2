@@ -1,3 +1,14 @@
+/*
+============================================================================
+Name : file30c_d.c
+Author : Nabarun Mukherjee
+Description : Write a program to create a shared memory.
+ c. detach the shared memory
+ d. remove the shared memory
+
+Date: 13th Oct, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

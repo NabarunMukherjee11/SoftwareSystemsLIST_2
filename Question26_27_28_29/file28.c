@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : file28.c
+Author : Nabarun Mukherjee
+Description : Write a program to change the exiting message queue permission.
+Date: 15th Oct, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
